@@ -1,0 +1,3 @@
+This is a neural TTS stylization project repo.
+Our paper will be publised on ICLR 2019.
+Please replace any texts you want to synthesize in this script.
